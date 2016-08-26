@@ -1,0 +1,1 @@
+Vježbe iz kolegija upravljanje podacima, radio u MySQL-u.
